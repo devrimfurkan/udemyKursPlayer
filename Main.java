@@ -6,8 +6,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Ogrenci ogr1=new Ogrenci("ali","linin ytanıtım yazısı","ali_udemy");
-        Egitmen emre=new Egitmen("emre","emre java","emrealtunbilek");
+        Ogrenci ogr1=new Ogrenci("ali","alinin tanıtım yazısı","ali_udemy");
+        Egitmen emre=new Egitmen("emre","emre java","emre1234");
         Egitmen deneme=new Egitmen("deneme","deneme java","deneme_udemy");
         System.out.println(ogr1);
         System.out.println(emre);
